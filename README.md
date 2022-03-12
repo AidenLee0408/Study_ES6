@@ -1,7 +1,7 @@
 # EcmaScript 스터디
 
 
-### EcmaScript for Beginner
+### EcmaScript for Beginner : ES6 초급
 
 - 변수
 - 자료형
@@ -19,7 +19,7 @@
 
 
 
-### EcmaScipt for Intermediate
+### EcmaScipt for Intermediate : ES6 중급
 
 - 변수, 호이스팅, TDZ(Temporal Dead Zone)
 - 생성자 함수
