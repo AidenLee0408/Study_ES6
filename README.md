@@ -17,6 +17,8 @@
 - 객체(Object)
 - 배열(Array)
 
+→ ES6 초급 스터디노트
+
 
 
 ### EcmaScipt for Intermediate : ES6 중급
@@ -40,6 +42,8 @@
 - async, await
 - Generator
 
+→ ES6 중급 스터디노트
+
 
 
 ### JavaScript 활용 : DOM & EVENT
@@ -50,3 +54,6 @@
 - CSS style, Class 제어
 - 이벤트 핸들러
 - 이벤트 버블링, 이벤트 위임
+
+→ JS 활용 스터디노트
+
