@@ -6,7 +6,7 @@
 const name = prompt("이름을 입력하세요.");
 alert("환영합니다." + name + "님");
 
-const name = prompt("예약하신 날짜를 입력해주세요", "2022-03"); //다음과 같이 디폴트 값을 줄 수 있음
+const date = prompt("예약하신 날짜를 입력해주세요", "2022-03"); //다음과 같이 디폴트 값을 줄 수 있음
 
 const isAdult = confirm("당신은 성인 입니까?"); // -> alert와 다른점은 확인과 함께 취소버튼도 있다는것
 
